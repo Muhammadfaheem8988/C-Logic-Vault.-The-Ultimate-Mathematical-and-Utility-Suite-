@@ -1,0 +1,1 @@
+This program provides a bidirectional temperature conversion utility between the Fahrenheit and Celsius scales. It allows the user to select the input scale and then applies the corresponding linear transformation to find the equivalent value.

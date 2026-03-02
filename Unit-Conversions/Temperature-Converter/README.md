@@ -1,0 +1,2 @@
+This program performs a temperature conversion from the Fahrenheit scale to the Celsius scale. It prompts the user for a numerical value in Fahrenheit and applies a standard linear transformation to calculate the equivalent Celsius value.The conversion logic follows the mathematical relationship:C = (5/9)*(F - 32)
+The program ensures precision by utilizing floating-point arithmetic and displays the final temperature output formatted to two decimal places.

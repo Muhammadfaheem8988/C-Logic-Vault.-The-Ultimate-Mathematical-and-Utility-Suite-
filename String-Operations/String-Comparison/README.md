@@ -1,0 +1,1 @@
+This program performs a lexicographical comparison between two user-provided strings. It utilizes the standard library function strcmp to evaluate the alphabetical order of the inputs. The program determines which string is "greater" based on ASCII values and provides a specific output identifying the leading string or confirming if both inputs are identical.

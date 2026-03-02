@@ -1,0 +1,1 @@
+This program calculates both the area and the perimeter of a rectangle based on user-provided length and width. After performing the calculations, it compares the two results to determine which value is numerically greater. The program outputs the specific values for both the area and perimeter to provide a clear comparison of the geometric properties.

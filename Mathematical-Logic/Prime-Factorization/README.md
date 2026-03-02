@@ -1,0 +1,1 @@
+This program calculates and displays the prime factorization of a given integer. By starting from the smallest prime number and using nested loops, the program identifies every prime factor that divides the input number exactly. It continues the division process until the number is fully decomposed into its prime components, printing each factor in sequence.

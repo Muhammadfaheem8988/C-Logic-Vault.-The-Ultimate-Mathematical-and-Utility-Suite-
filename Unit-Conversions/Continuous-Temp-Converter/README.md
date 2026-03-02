@@ -1,0 +1,1 @@
+This program is an interactive, loop-based temperature conversion utility. It allows users to repeatedly convert values between the Fahrenheit and Celsius scales without restarting the application.

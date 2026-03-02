@@ -1,0 +1,1 @@
+This program simulates a basic ATM currency dispenser logic. It takes a total monetary amount as input and calculates the minimum number of currency notes required in denominations of 100, 50, and 10. The program uses integer division and subtraction to break down the total amount into each specific note category sequentially.

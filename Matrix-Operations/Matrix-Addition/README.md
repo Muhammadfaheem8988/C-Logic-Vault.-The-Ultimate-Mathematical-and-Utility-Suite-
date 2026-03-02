@@ -1,0 +1,1 @@
+This program performs the addition of two $2 \times 2$ matrices. It prompts the user to input integer elements for each row of two separate matrices and then calculates the sum by adding corresponding elements at each index. Finally, the program displays the resulting third matrix in a formatted grid layout.
