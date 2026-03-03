@@ -1,0 +1,1 @@
+This program calculates the Factorial of a non-negative integer. Factorials are a fundamental concept in mathematics and combinatorics, representing the product of all positive integers up to a given number.
