@@ -1,0 +1,1 @@
+This program modularizes the Euclidean Algorithm by encapsulating the logic within a dedicated function. This approach promotes code reusability and cleaner organization within the main execution block.
