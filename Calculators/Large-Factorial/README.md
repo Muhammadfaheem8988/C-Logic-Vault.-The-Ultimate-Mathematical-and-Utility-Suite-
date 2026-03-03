@@ -1,0 +1,1 @@
+This is an enhanced version of the Factorial Calculator designed to handle large-scale integer products. By utilizing the long long int data type, the program significantly extends its calculation range compared to standard integer implementations.
