@@ -1,0 +1,3 @@
+This program determines if a given integer is a Prime Number. A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+Optimization Strategy:Square Root Rule: Instead of checking all numbers up to n, the program only checks up to sqrt(n). This is because if n has a factor larger than its square root, it must also have a factor smaller than its square root.
+Early Exit: By using a break statement, the program stops immediately upon finding the first divisor, saving processing time for large composite numbers.
