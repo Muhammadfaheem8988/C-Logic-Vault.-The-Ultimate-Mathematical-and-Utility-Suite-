@@ -1,0 +1,1 @@
+This program extends the basic marks calculator into a full-scale Academic Grading System. It uses a sequential decision-making process to map a student's percentage to a specific letter grade.
