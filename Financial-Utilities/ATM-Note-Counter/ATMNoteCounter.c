@@ -6,7 +6,7 @@ int main()
 {
 	int amount, h, f, t;
 	
-	// Input the total amount from the user
+	// Input the total amount from the user to be printed/withdrawn from ATM
 	printf("enter the total amount ");
 	scanf("%d", &amount);
 	
